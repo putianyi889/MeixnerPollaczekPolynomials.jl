@@ -1,0 +1,23 @@
+name = "MeixnerPollaczekPolynomials"
+uuid = "226a494a-9bd6-43cc-8fa4-7c898e1f9a0d"
+authors = ["Tianyi Pu <912396513@qq.com> and contributors"]
+version = "1.0.0-DEV"
+
+[deps]
+ClassicalOrthogonalPolynomials = "b30e2e7b-c4ee-47da-9d5f-2c5c27239acd"
+LazyBandedMatrices = "d7e5e226-e90b-4449-9968-0f923699bf6f"
+RationalVals = "9cc9807e-afa3-477e-9918-05cd8014b9f1"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+[compat]
+ClassicalOrthogonalPolynomials = "0.13.7"
+LazyBandedMatrices = "0.10.4"
+RationalVals = "0.0.1"
+SpecialFunctions = "2.4.0"
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
