@@ -15,7 +15,7 @@ RationalVals = {url = "https://github.com/putianyi889/RationalVals.jl"}
 [compat]
 ClassicalOrthogonalPolynomials = "0.13, 0.14"
 LazyBandedMatrices = "0.10, 0.11"
-RationalVals = "0.0.3"
+RationalVals = "0.0.3, 0.0.4, 0.0.5"
 SpecialFunctions = "2"
 julia = "1.6.7"
 
