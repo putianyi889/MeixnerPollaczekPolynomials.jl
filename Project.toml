@@ -11,7 +11,7 @@ SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
 [compat]
 ClassicalOrthogonalPolynomials = "0.13, 0.14"
-LazyBandedMatrices = "0.10"
+LazyBandedMatrices = "0.10, 0.11"
 RationalVals = "0.0.3"
 SpecialFunctions = "2"
 julia = "1.6.7"
