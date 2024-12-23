@@ -9,6 +9,9 @@ LazyBandedMatrices = "d7e5e226-e90b-4449-9968-0f923699bf6f"
 RationalVals = "9cc9807e-afa3-477e-9918-05cd8014b9f1"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
+[sources]
+RationalVals = {url = "https://github.com/putianyi889/RationalVals.jl"}
+
 [compat]
 ClassicalOrthogonalPolynomials = "0.13, 0.14"
 LazyBandedMatrices = "0.10, 0.11"
