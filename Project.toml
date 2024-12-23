@@ -10,7 +10,7 @@ RationalVals = "9cc9807e-afa3-477e-9918-05cd8014b9f1"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
 [compat]
-ClassicalOrthogonalPolynomials = "0.13"
+ClassicalOrthogonalPolynomials = "0.13, 0.14"
 LazyBandedMatrices = "0.10"
 RationalVals = "0.0.3"
 SpecialFunctions = "2"
